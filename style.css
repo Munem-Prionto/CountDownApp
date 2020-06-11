@@ -1,3 +1,28 @@
-.h {
-    background-color: red;
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+:root {
+    font-size: 10px;
+}
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 2rem;
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    color: white;
+    font-size: 6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
 }
