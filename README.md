@@ -1,4 +1,4 @@
 # Countdown App
-## Inspired from the movie "Coundown"
+## Inspired from the movie "Countdown".
 
- I
+
